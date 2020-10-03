@@ -34,7 +34,7 @@ const MainPage = () => {
         <Box>
             <NavBar/>
             <Container>
-                <Grid container spacing={3}>
+                <Grid container spacing={4}>
                     <Grid item xs={12} sm={6}>
                         <TableUser users={users} onClick={getLikedSongs} loading={load}/> 
                     </Grid>
