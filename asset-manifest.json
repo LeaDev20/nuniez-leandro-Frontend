@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nuniez-leandro-Frontend/static/css/main.21f09730.chunk.css",
+    "main.js": "/nuniez-leandro-Frontend/static/js/main.a9f2910a.chunk.js",
+    "main.js.map": "/nuniez-leandro-Frontend/static/js/main.a9f2910a.chunk.js.map",
+    "runtime-main.js": "/nuniez-leandro-Frontend/static/js/runtime-main.03dc755c.js",
+    "runtime-main.js.map": "/nuniez-leandro-Frontend/static/js/runtime-main.03dc755c.js.map",
+    "static/js/2.6604af16.chunk.js": "/nuniez-leandro-Frontend/static/js/2.6604af16.chunk.js",
+    "static/js/2.6604af16.chunk.js.map": "/nuniez-leandro-Frontend/static/js/2.6604af16.chunk.js.map",
+    "index.html": "/nuniez-leandro-Frontend/index.html",
+    "precache-manifest.d92850b9f8525108e4151455a7e7942b.js": "/nuniez-leandro-Frontend/precache-manifest.d92850b9f8525108e4151455a7e7942b.js",
+    "service-worker.js": "/nuniez-leandro-Frontend/service-worker.js",
+    "static/css/main.21f09730.chunk.css.map": "/nuniez-leandro-Frontend/static/css/main.21f09730.chunk.css.map",
+    "static/js/2.6604af16.chunk.js.LICENSE.txt": "/nuniez-leandro-Frontend/static/js/2.6604af16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03dc755c.js",
+    "static/js/2.6604af16.chunk.js",
+    "static/css/main.21f09730.chunk.css",
+    "static/js/main.a9f2910a.chunk.js"
+  ]
+}
